@@ -1,9 +1,8 @@
 #!/usr/bin/python3
+"""docstring for Square"""
 
 
 class Square:
-    """
-    class Square with private instance attribute size
-    """
+    """docstring for init"""
     def __init__(self, size):
         self.__size = size
